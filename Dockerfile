@@ -1,4 +1,4 @@
-# Dockerfile para la creación de la imagen de ubuntu + ssh + postgresql
+## Dockerfile para la creación de la imagen de ubuntu + ssh + postgresql
 
 FROM ubuntu:latest
 
