@@ -1,5 +1,5 @@
 # ubuntu-ssh-postgresql
-Docker imagen de Ubuntu que contiene la base de datos Postgresql y que se puede acceder mediante SSH.
+Docker image of Ubuntu that contains the Postgresql database and that can be accessed through SSH.
 
 # USAGE
 docker run -d -p 22:22/tcp javi98/ubuntu-ssh-postgresql
